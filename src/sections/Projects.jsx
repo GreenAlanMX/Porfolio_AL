@@ -5,7 +5,7 @@ const projects = [
     title: "Fintech Dashboard",
     description:
       "A comprehensive financial analytics platform with real-time data visualization, portfolio management, and AI-powered insights.",
-    image: "react-tailwind-personal-porfolio\docs\projects\project1.png",
+    image: "/react-tailwind-personal-porfolio/public/projects/project1.png",
     tags: ["React", "Typescript", "NodeJS"],
     link: "#",
     github: "#",
@@ -14,7 +14,7 @@ const projects = [
     title: "E-Commerce Platform",
     description:
       "A full-featured e-commerce solution with inventory management, payment processing, and analytics dashboard.",
-    image: "react-tailwind-personal-porfolio\docs\projects\project2.png",
+    image: "/react-tailwind-personal-porfolio/public/projects/project2.png",
     tags: ["Next.js", "Stripe", "PostgreSQL", "Tailwind"],
     link: "#",
     github: "#",
