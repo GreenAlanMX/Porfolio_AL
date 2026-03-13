@@ -5,7 +5,7 @@ const projects = [
     title: "Fintech Dashboard",
     description:
       "A comprehensive financial analytics platform with real-time data visualization, portfolio management, and AI-powered insights.",
-    image: `${import.meta.env.BASE_URL}projects/project1.png`,
+    image: `{import.meta.env.BASE_URL}projects/project1.png`,
     tags: ["React", "Typescript", "NodeJS"],
     link: "#",
     github: "#",
